@@ -1,10 +1,10 @@
-# Frontend Mentor Newbie Project
+# Frontend Mentor Newbie 
 
-Welcome to the **Frontend Mentor Newbie Project** repository! This project contains frontend challenges from [Frontend Mentor](https://www.frontendmentor.io/) aimed at helping developers practice and improve their frontend development skills.
+Welcome to the **Frontend Mentor Newbie ** repository! This project contains frontend challenges from [Frontend Mentor](https://www.frontendmentor.io/) aimed at helping developers practice and improve their frontend development skills.
 
 ## Overview
 
-This repository contains beginner-level challenges provided by Frontend Mentor. Each challenge is an opportunity to learn and practice various frontend development skills, such as responsive design, HTML, CSS, and JavaScript.
+This repository contains beginner-level ** Newbie ** challenges provided by Frontend Mentor. Each challenge is an opportunity to learn and practice various frontend development skills, such as responsive design, HTML, CSS, and JavaScript.
 
 ## Features
 
